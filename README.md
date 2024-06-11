@@ -13,7 +13,7 @@ Firefox user.js for smooth scrolling like Microsoft Edge.
 
 2. **Adding the User.js File:**
 
-  - paste it into the profile folder
+   - Paste user.js into the profile folder.
 
 3. **Restart Firefox:**
 
